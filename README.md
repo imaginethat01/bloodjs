@@ -12,7 +12,7 @@ I'd like to add persistance. Currently all progress will be lost once the browse
 
 Performance isn't great. 2D side scrollers seem to work better than 3D games. 
 
-The application will start a setup.exe - Feel free to tinker with the settings if you want, or simply start the game.
+The application will start a setup.exe - Feel free to tinker with the settings if you want, or simply start the game by choosing the last option on the setup menu. 
 
 <h3>Adlib Music seems to work</h3>
 <h3>Soundblaster Audio seems to work</h3>
