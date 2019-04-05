@@ -18,7 +18,11 @@ The application will start a setup.exe - Feel free to tinker with the settings i
 
 <h3>Adlib Music seems to work</h3>
 <h3>Soundblaster Audio seems to work</h3>
-<h4>HEADPHONE WARNING : The audio takes a second to kick in and may crackle loudly when first starting</h4> 
+<h4>HEADPHONE WARNING : The audio takes a second to kick in and may crackle loudly when first starting.</h4> 
+
+<br>
+<br>
+<h4>Emulation will respond to the normal CNTRL + F11 or CNTRL + F12 DOS BOX control for CPU speed Emulation. Pressing CNTRL + F12 at startup does increase FPS and performance</h4>
 
 
 <HR>
