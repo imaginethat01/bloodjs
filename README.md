@@ -18,6 +18,8 @@ The application will start a setup.exe - Feel free to tinker with the settings i
 
 <h3>Adlib Music seems to work</h3>
 <h3>Soundblaster Audio seems to work</h3>
+<h4>HEADPHONE WARNING : The audio takes a second to kick in and may crackle loudly when first starting</h4> 
+
 
 <HR>
 
