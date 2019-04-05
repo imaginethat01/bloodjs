@@ -7,9 +7,7 @@ The Classic Build Engine Game Blood... Running inside of DOS BOX ... Inside of a
 
 <h1>It aint perfect. It aint pretty. but by God it works. Using JS-DOS 6.22</h1>
 
-I'd like to add persistance. Currently there is no way to save a game. This is possible, but somewhat tricky. 
-
-
+I'd like to add persistance. Currently all progress will be lost once the browser session is closed. This is possible, but somewhat tricky for multiple instances.  
 
 
 Performance isn't great. 2D side scrollers seem to work better than 3D games. 
