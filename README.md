@@ -5,6 +5,8 @@ The Classic Build Engine Game Blood... Running inside of DOS BOX ... Inside of a
 <img src="https://classicreload.com/sites/default/files/msdos_blood.png">
 <HR> 
 
+I am unabashedly giddy about this.
+
 <h1>It aint perfect. It aint pretty. but by God it works. Using JS-DOS 6.22</h1>
 
 I'd like to add persistance. Currently all progress will be lost once the browser session is closed. This is possible, but somewhat tricky for multiple instances.  
